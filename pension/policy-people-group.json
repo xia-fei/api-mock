@@ -1,18 +1,17 @@
-{
-  "title": "政策找人",
-  "details": [
-    {
-      "policy-name": "电子津贴",
-      "match-num":200,
-      "soon-match":100
-    },{
-      "policy-name": "高龄津贴",
-      "match-num":2000,
-      "soon-match":1010
-    },{
-      "policy-name": "家电统保",
-      "match-num":154,
-      "soon-match":12
-    }
-  ]
-}
+[
+  {
+    "policy-name": "电子津贴",
+    "match-num": 200,
+    "soon-match": 100
+  },
+  {
+    "policy-name": "高龄津贴",
+    "match-num": 2000,
+    "soon-match": 1010
+  },
+  {
+    "policy-name": "家电统保",
+    "match-num": 154,
+    "soon-match": 12
+  }
+]

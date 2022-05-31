@@ -1,0 +1,46 @@
+{
+  "activity": {
+    "title": "公益活动",
+    "details": [
+      {
+        "name": "敬爱老人",
+        "count": 20
+      },
+      {
+        "name": "上门帮老人洗漱",
+        "count": 18
+      }
+    ]
+  },
+  "some-floor": {
+    "title": "多代同楼",
+    "list": [
+      {
+        "week": 1,
+        "list": [
+          {
+            "name": "敬爱老人",
+            "count": 20
+          },
+          {
+            "name": "上门帮老人洗漱",
+            "count": 18
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "list": [
+          {
+            "name": "敬爱老人2",
+            "count": 202
+          },
+          {
+            "name": "上门帮老人洗漱2",
+            "count": 182
+          }
+        ]
+      }
+    ]
+  }
+}
