@@ -5,5 +5,5 @@
 ###  为 work.json
 ###  学 study.json
 ###  康 health.json
-###  养  pension.json.json
+###  养  pension.json
 
