@@ -1,0 +1,36 @@
+{
+  "title":"老人概况",
+  "summary": {
+    "man": 31,
+    "woman": 61,
+    "total": 92
+  },
+  "details": [
+    {
+      "man": 16,
+      "woman": 32,
+      "age-range": [
+        60,
+        69
+      ]
+    },
+    {
+      "man": 6,
+      "woman": 13,
+      "age-range": [
+        70,
+        79
+      ]
+    },
+    {
+      "man": 2,
+      "woman": 2,
+      "age-range": [
+        100,
+        200
+      ]
+    }
+  ]
+}
+
+
